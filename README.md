@@ -1,6 +1,14 @@
 <h1>Курс архитектуры ЭВМ за 4 семестр</h1>
-<h2>Вопросы к рубежному контролю 1</h2>
 
+| Number | Issued | Status | On GitLab |
+|------|---|------|----------|
+| :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| :five: | :white_check_mark: | :white_check_mark: |:white_check_mark: |
+
+<h2>Вопросы к рубежному контролю 1</h2>
 1. Классификация ЭВМ по количеству потоков команд и данных (классификация Флинна).
 2. Основные характеристики ЭВМ
 3. Одноступенчатый синхронный RS-триггер, Двухступенчатый синхронный RS-триггер
