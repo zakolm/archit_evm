@@ -1,4 +1,4 @@
-<h1>Курс Архитектуры ЭВМ за 4 семестр, BMSTU(Bauman Moscow), IU7, 2018</h1>
+<h1>Архитектура ЭВМ 4 семестр, BMSTU(Bauman Moscow), IU7, 2018</h1>
 
 | Number | Issued | Status | On GitLab |
 |------|---|------|----------|
