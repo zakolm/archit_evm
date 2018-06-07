@@ -1,5 +1,7 @@
 <h1>Архитектура ЭВМ 4 семестр, BMSTU(Bauman Moscow), IU7, 2018</h1>
 
+<h2>Лабораторные работы</h2>
+
 | Number | Issued | Status | On GitLab |
 |------|---|------|----------|
 | :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
