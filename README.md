@@ -1,8 +1,10 @@
 <h1>Архитектура ЭВМ 4 семестр, BMSTU(Bauman Moscow), IU7, 2018</h1>
 
+### Автоперенос из GitLab(кафедры), если есть какие-то проблемы или недочеты- отпишите
+
 <h2>Лабораторные работы</h2>
 
-| Number | Issued | Status | On GitLab |
+| Number | Issued | Status | On GitHub |
 |------|---|------|----------|
 | :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
